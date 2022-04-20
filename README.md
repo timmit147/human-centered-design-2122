@@ -7,15 +7,13 @@ Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een bril
 ### User Scenario
 
 ## Welke opdracht heb ik gekozen
-Ik heb gekozen om een drag en drop lijst te maken die je verplaatsen met het toetsenboard. 
+Ik heb gekozen om een drag en drop lijst te maken die je kan verplaatsen met het toetsenboard. 
 
 <details closed>
 <summary>Debriefing</summary>
 <br>
 Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
 </details>
-
-
 
 ### Wat is exclusief design
 Exclusief design is het ontwerpen voor een persoon enkele persoon en kijkt naar de doelen van een uniek persoon. Het tegenovergestelden van exclusief is inclusief  waarbij je juist probeerd zoveel mogelijk rekening te houden met alle mensen die het product gebruiken. Bij exclusief design is het testen met de persoon crusiaal zodat je feedback krijgt hoe je het ontwerp kan verbeteren. 
@@ -29,12 +27,16 @@ Ik heb gekeken naar wat de voorkeuren zijn van Marijn en op basis van dit het on
 * Accessibility settings Sticky Keys Marijn kan waarschijnlijk lastig 2 knoppen tegelijk indrukken het gebruik van ctrl, alt en shift in combinatie met een andere toets is daarom waarschijnlijk niet handig omdat dit meer tijd kost.
 
 ## Ontwerpen
+Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
 
 ### Onstwerp 1
 
 ### Onstwerp 2
 
 ### Onstwerp 3
+
+## Prototypen
+In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
 ## Teststen/feedback
 
