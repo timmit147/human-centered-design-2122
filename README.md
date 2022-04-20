@@ -42,9 +42,10 @@ Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
 ### Ignore Conventions
 
 ### Prioritise Identity
-De styling van de website heb ik aangepast op basis van de voorkeur van Marijn. Ik heb ......
+De styling van de website heb ik aangepast op basis van de voorkeur van Marijn. Ik heb gezien dat die werkt in de muziek industry en heb de stijling van de website aangepast op basis van deze voorkeuren. Ik had gelezen dat zijn kamer vroeger vol stond met verschillenden computers ik kan dit ook als thema doen dat elke lijst een oude computer is met een oud interface.
 
 ### Add Nonsense
+Wat grappig kan zijn is dat je op de website muziek kan spelen bijvoorbeeld een piano.
 
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
@@ -68,4 +69,4 @@ In HTML, CSS en Javascript heb ik een protypen gemaakt.
 ## Bronnen
 https://www.quora.com/What-are-the-uses-of-sticky-keys
 https://vim.rtorr.com/
-
+https://web.tue.nl/cursor/html/cursor4119981999/cursor25/pag7a.htm
