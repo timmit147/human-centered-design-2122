@@ -35,6 +35,17 @@ Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
 
 ### Onstwerp 3
 
+## Exclusive Design Principles:
+
+### Study Situation
+
+### Ignore Conventions
+
+### Prioritise Identity
+De styling van de website heb ik aangepast op basis van de voorkeur van Marijn. Ik heb ......
+
+### Add Nonsense
+
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
