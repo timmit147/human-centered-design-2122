@@ -56,3 +56,5 @@ In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
 ## Bronnen
 https://www.quora.com/What-are-the-uses-of-sticky-keys
+https://vim.rtorr.com/
+
