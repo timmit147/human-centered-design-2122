@@ -49,7 +49,28 @@ Wat grappig kan zijn is dat je op de website muziek kan spelen bijvoorbeeld een 
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
-## Teststen/feedback
+## Testen/feedback
+
+Gebruikt geen tab
+
+hjkl toetsen
+
+n onder focus plaatsen
+
+move en delete bug
+
+muziek niet konstand aan
+
+lezen
+
+
+bandjes
+
+bier drinken
+
+boek lezen 
+
+klooien met computers
 
 ## Conclusie
 
