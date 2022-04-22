@@ -82,3 +82,11 @@ sidebar ul{
     flex-direction: column;
     gap: 10px;
 }
+
+#sound{
+    background-color: red;
+}
+
+.sound{
+    background-color: green!important;
+}
