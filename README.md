@@ -4,7 +4,7 @@ In dit vak heb ik geleerd hoe ik kan ontwerpen voor een persoon persoon. Ik heb 
 ## Wie is Marijn Meijles
 Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht. Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
 
-### User Scenario
+### User Scenario 
 
 ## Welke opdracht heb ik gekozen
 Ik heb gekozen om een drag en drop lijst te maken die je kan verplaatsen met het toetsenboard. 
@@ -49,7 +49,28 @@ Wat grappig kan zijn is dat je op de website muziek kan spelen bijvoorbeeld een 
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
-## Teststen/feedback
+## Testen/feedback
+
+Gebruikt geen tab
+
+hjkl toetsen
+
+n onder focus plaatsen
+
+move en delete bug
+
+muziek niet konstand aan
+
+lezen
+
+
+bandjes
+
+bier drinken
+
+boek lezen 
+
+klooien met computers
 
 ## Conclusie
 
