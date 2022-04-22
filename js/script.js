@@ -2,6 +2,7 @@ var currentKey = 1;
 var currentRow = 1;
 var sound = false;
 var musicOn = true;
+var move = false;
 
 function music(){
     if(sound == true){
@@ -403,9 +404,3 @@ document.addEventListener("keyup", function(event) {
         }
     }
 });
-
-
-
-
-
-var move = false;
