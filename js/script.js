@@ -95,7 +95,7 @@ document.addEventListener("keyup", function(event) {
 
         // When key U clicked do this function
         if (event.keyCode === 85) {
-            // if(document.querySelector(`main :nth-child(${currentRow}) ul`).childElementCount != 1){
+            if(currentKey != 1){
                 if(currentKey != document.querySelector(`main :nth-child(${currentRow}) ul`).childElementCount){
                     document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).remove();
                     document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("active");
@@ -112,10 +112,7 @@ document.addEventListener("keyup", function(event) {
                     document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("active");
                  }
 
-            // }
-            // else{
-            //     document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).innerHTML = "No items";
-            // }
+            }
         }
 
          // When key P clicked do this function
@@ -335,7 +332,7 @@ document.addEventListener("keyup", function(event) {
 
         // When clicking arrow up/k do this function
         if (event.keyCode === 75) {
-            if(currentKey > 1){
+            if(currentKey > 2){
                 const text = document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).innerHTML;
                 document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).innerHTML = document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey-1})`).innerHTML;
                 document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey-1})`).innerHTML = text;
@@ -352,18 +349,18 @@ document.addEventListener("keyup", function(event) {
                 currentKey = 1;
                 document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("move");
                 currentRow = currentRow+1;
-                const currentUl = document.querySelector(`main :nth-child(${currentRow}) ul`);
+                const currentUl = document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`);
                 const li = document.createElement("li");
                 li.appendChild(document.createTextNode(currentLi.innerHTML));
-                console.log(document.querySelector(`main :nth-child(${currentRow-1}) ul`).childElementCount );
                 if(document.querySelector(`main :nth-child(${currentRow-1}) ul`).childElementCount == 1){
                     currentLi.innerHTML = "No items";
                 }
                 else{
                     currentLi.remove();
                 }
-                currentUl.prepend(li);
-                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("move");
+                currentUl.after(li);
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey+1})`).classList.add("move");
+                currentKey=currentKey+1;
             }
         }
 
@@ -374,7 +371,7 @@ document.addEventListener("keyup", function(event) {
                 currentKey = 1;
                 document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("move");
                 currentRow = currentRow-1;
-                const currentUl = document.querySelector(`main :nth-child(${currentRow}) ul`);
+                const currentUl = document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`);
                 const li = document.createElement("li");
                 li.appendChild(document.createTextNode(currentLi.innerHTML));
                 if(document.querySelector(`main :nth-child(${currentRow+1}) ul`).childElementCount == 1){
@@ -383,25 +380,27 @@ document.addEventListener("keyup", function(event) {
                 else{
                     currentLi.remove();
                 }
-                currentUl.prepend(li);
-                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("move");
+                currentUl.after(li);
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey+1})`).classList.add("move");
+                currentKey=currentKey+1;
             }
         }
     }
 
     // When clicking key M do this function
     if (event.keyCode === 77) {
-        if(move == false){
-            document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("active");
-            document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("move");
-            move = true;
+        if(currentKey != 1){
+            if(move == false){
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("active");
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("move");
+                move = true;
+            }
+            else{
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("active");
+                document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("move");
+                move = false;
+            }
         }
-        else{
-            document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.add("active");
-            document.querySelector(`main :nth-child(${currentRow}) ul :nth-child(${currentKey})`).classList.remove("move");
-            move = false;
-        }
-
     }
 });
 

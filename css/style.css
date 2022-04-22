@@ -62,7 +62,9 @@ background-color: blue;
 
 .active{
     background-color: orange;
+    color: black;
 }
+
 
 .move{
     background-color: red;
