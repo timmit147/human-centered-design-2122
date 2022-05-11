@@ -61,6 +61,11 @@ In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
 ![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
 
+## Feedback code
+Ik kreeg feedback van marrijn dat ik geen if statement moest nesten maar dat ik return kon gebruiken.
+
+
+
 
 ## Testen/feedback
 
