@@ -31,9 +31,19 @@ Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
 
 ### Onstwerp 1
 
+![Web 1920 – 2](https://user-images.githubusercontent.com/29665951/167800816-98ae12fc-bae3-4d2e-af0c-fd22f9b56584.png)
+
+
 ### Onstwerp 2
 
+![Web 1920 – 3](https://user-images.githubusercontent.com/29665951/167800850-dafa4da7-fd59-4754-bda4-04f349eaf1b0.png)
+
+
 ### Onstwerp 3
+
+![Web 1920 – 4](https://user-images.githubusercontent.com/29665951/167800891-04afce38-0bdc-4df0-8cb3-1062086b75ef.png)
+
+
 
 ## Exclusive Design Principles:
 
@@ -48,6 +58,9 @@ Wat grappig kan zijn is dat je op de website muziek kan spelen bijvoorbeeld een 
 
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
+
+![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
+
 
 ## Testen/feedback
 
