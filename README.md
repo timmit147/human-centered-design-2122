@@ -1,6 +1,8 @@
 # Piano to do lijst
 Voor het vak Human Centered Design heb ik een drag en drop website gemaakt voor Marijn Meijles.
 
+![ezgif-1-e51fd19ebe](https://user-images.githubusercontent.com/29665951/168062333-759b4b4f-b997-4137-b950-83ee97de8ced.jpg)
+
 ## Wat is Human Centered Design?
 Bij HCI staat de gebruiker centraal en ontwerp je voor de gebruiker. Je kijk naar de problemen van de gebruiker en wat de gebruiker wil. Bij dit vak is het nog extremer gemaakt dat je niet voor een bepaalden doelgroep iets maakt maar voor 1 individueel persoon. Ik heb dit vak geleerd hoe ik exclusief kan ontwerpen inplaats van inclusief voor iedereen. Voor dit vak mocht ik een website maken dat exclusief gemaakt is voor Marijn.
 
