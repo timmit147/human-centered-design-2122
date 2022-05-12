@@ -72,6 +72,11 @@ In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
 ![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
 
+## Prototypen 2
+Ik heb de styling aangepast omdat het eerst alleen zwart wit was.
+
+![image](https://user-images.githubusercontent.com/29665951/168086634-52a952fc-f85f-440f-9e9d-d73d4ce3f6be.png)
+
 
 ## Welke aanpassingen heb ik gemaakt na test 1?
 Ik kreeg feedback dat Marijn geen tab gebruikt en heb deze uit de code gehaald om naar het volgende item te gaan.
