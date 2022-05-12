@@ -11,6 +11,7 @@ Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een bril
 
 ![image](https://user-images.githubusercontent.com/29665951/168051612-df9dfe80-5223-4c7a-844c-01b31fa0ea23.png)
 
+
 ### Wat is exclusief design
 Exclusief design is het ontwerpen voor een persoon enkele persoon en kijkt naar de doelen van een uniek persoon. Het tegenovergestelden van exclusief is inclusief  waarbij je juist probeerd zoveel mogelijk rekening te houden met alle mensen die het product gebruiken. Bij exclusief design is het testen met de persoon crusiaal zodat je feedback krijgt hoe je het ontwerp kan verbeteren. 
 
@@ -72,34 +73,27 @@ In HTML, CSS en Javascript heb ik een protypen gemaakt.
 ![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
 
 
+## Welke aanpassingen heb ik gemaakt na test 1?
+Ik kreeg feedback dat Marijn geen tab gebruikt en heb deze uit de code gehaald om naar het volgende item te gaan.
+
+Ik heb de pijltjes toetsen aangepast naar HJKL toetsen omdat hij dat het liefste gebruikt om te navigeren door items.
+
+In mijn eerste prototypen kon je nog niet goed navigeren en had het een aantal bugs die Marijn had gevonden zoals move en delete tegelijk inklikken. Ik heb deze bugs opgelost in het nieuwe prototpen.
 
 
-## Feedback code
-Ik kreeg feedback van marrijn dat ik geen if statement moest nesten maar dat ik return kon gebruiken.
+## Wat heb ik aangepast na test 2?
+Marijn vond de muziek in het begin leuk maar niet voor de hele tijd. Ik heb een knop toegevoegd dat je het geluik aan en uit kan zetten.
+
+Ik had in mijn eersten ontwerpen gekozen voor een witte achtergrond maar ik had gelezen dat hij dark mode fijner vind om te gebruiken en heb dit toegepast in het prototypen.
 
 
-## Testen/feedback
+## Wat heb ik aangepast na test 3?
+Ik kreeg feedback van marrijn dat ik geen if statement moest nesten maar dat ik return kon gebruiken. Ik heb meer onderzoek daar over gedaan maar had nog geen tijd om dat aantepassen maar ga dit in het vervolg wel toepassen.
 
-Gebruikt geen tab
+Wanneer je de website opniew gaat herladen blijft de current state niet op de zelften locatie. Ook wordt de informatie die je typt niet opgeslagen wanneer je de pagina herlaad. Ik kan met localstorage dit oplossen of een database toevoegen maar hier had ik niet genoeg tijd voor.
 
-hjkl toetsen
+Wanneer je een item heb geselecteerd kan je het naar links en rechts verplaatsen maar als je bij het einde bent loopt die niet terug naar de eerste column.
 
-n onder focus plaatsen
-
-move en delete bug
-
-muziek niet konstand aan
-
-lezen
-
-
-bandjes
-
-bier drinken
-
-boek lezen 
-
-klooien met computers
 
 
 
