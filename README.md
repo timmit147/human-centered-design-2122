@@ -1,19 +1,15 @@
-# Human Centered Design 
-In dit vak heb ik geleerd hoe ik kan ontwerpen voor een persoon persoon. Ik heb dit vak geleerd hoe ik exclusief kan ontwerpen inplaats van inclusief voor iedereen. Voor dit vak mocht ik een website maken voor Marijn.
+# Piano to do list
+Voor het vak Human Centered Design heb ik een drag en drop website gemaakt voor Marijn Meijles.
 
-## Wie is Marijn Meijles
+## Wat is Human Centered Design?
+Bij HCI staat de gebruiker centraal en ontwerp je voor de gebruiker. Je kijk naar de problemen van de gebruiker en wat de gebruiker wil. Bij dit vak is het nog extremer gemaakt dat je niet voor een bepaalden doelgroep iets maakt maar voor 1 individueel persoon. Ik heb dit vak geleerd hoe ik exclusief kan ontwerpen inplaats van inclusief voor iedereen. Voor dit vak mocht ik een website maken dat exclusief gemaakt is voor Marijn.
+
+### Wie is Marijn Meijles?
 Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht. Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
 
-### User Scenario 
+![image](https://user-images.githubusercontent.com/29665951/168051612-df9dfe80-5223-4c7a-844c-01b31fa0ea23.png)
 
-## Welke opdracht heb ik gekozen
-Ik heb gekozen om een drag en drop lijst te maken die je kan verplaatsen met het toetsenboard. 
 
-<details closed>
-<summary>Debriefing</summary>
-<br>
-Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
-</details>
 
 ### Wat is exclusief design
 Exclusief design is het ontwerpen voor een persoon enkele persoon en kijkt naar de doelen van een uniek persoon. Het tegenovergestelden van exclusief is inclusief  waarbij je juist probeerd zoveel mogelijk rekening te houden met alle mensen die het product gebruiken. Bij exclusief design is het testen met de persoon crusiaal zodat je feedback krijgt hoe je het ontwerp kan verbeteren. 
@@ -25,6 +21,17 @@ Ik heb gekeken naar wat de voorkeuren zijn van Marijn en op basis van dit het on
 * Motorische stoornis hierdoor kan hij niet fijne motoriek bewegingen maken het slepen van een lijst is daarom beter met het toetsenbord.
 * Gebruikt toetsenbord om te navigeren waardoor ik het gebruik van een muis niet ga toepassen.
 * Accessibility settings Sticky Keys Marijn kan waarschijnlijk lastig 2 knoppen tegelijk indrukken het gebruik van ctrl, alt en shift in combinatie met een andere toets is daarom waarschijnlijk niet handig omdat dit meer tijd kost.
+
+
+
+## Welke opdracht heb ik gekozen?
+Ik heb gekozen om een drag en drop lijst te maken die je kan verplaatsen met het toetsenboard. 
+
+<details closed>
+<summary>Debriefing</summary>
+<br>
+Hoe kun je een drag & drop lijst optimaliseren voor een gebruiker die afhankelijk is van zijn toetsenbord én motorisch gestoord is?
+</details>
 
 ## Ontwerpen
 Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
