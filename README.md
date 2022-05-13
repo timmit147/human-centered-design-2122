@@ -16,7 +16,7 @@ Marijn is iemand die een passie heeft voor muziek super goed is in programeren e
 Exclusief design is het ontwerpen voor een persoon enkele persoon en kijkt naar de doelen van een uniek persoon. Het tegenovergestelden van exclusief is inclusief  waarbij je juist probeerd zoveel mogelijk rekening te houden met alle mensen die het product gebruiken. Bij exclusief design is het testen met de persoon crusiaal zodat je feedback krijgt hoe je het ontwerp kan verbeteren. 
 
 ## Wat wil marijn bereiken?
-Ik heb gekozen om een drag en drop lijst te maken waarbij je items kan verplaatsen met het toetsenboard. Omdat Marijn een slechte motoriek heeft is het slepen van items lastig. Inplaats van slepen van items ga ik het makelijker maken om met de toetsen van zijn computer de items te kunnen verplaatsen.
+Ik heb gekozen om een drag en drop lijst te maken waarbij je items kan verplaatsen met het toetsenboard. Omdat Marijn een slechte motoriek heeft is het slepen van items lastig. Inplaats van slepen van items ga ik het makelijker maken om met de toetsen van zijn computer de items te kunnen verplaatsen. De reden dat hij een exclusiefe drag en drop lijst wil is dat het nu lang duurt voordat hij zijn taken heeft gehaald. Door een website te maken die hij makelijker maakt voor hem te gebruien kan hij sneller zijn doelen berijken en heeft hij meer tijd over.
 
 <details closed>
 <summary>Debriefing</summary>
@@ -49,8 +49,8 @@ De styling van de website heb ik aangepast op basis van de voorkeur van Marijn. 
 Wat ik als nonsens heb toegevoegd is dat de lijst items piano muziek kunnen maken wanneer die geselecteerd is. Ook heb ik wanneer je klikt op p automatich muziek word afspeeld.
 
 
-## Welke ontwerpen heb ik gemaakt?
-Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
+## Ontwerpen
+Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn voorkeuren.
 
 ### Onstwerp 1
 
@@ -80,6 +80,9 @@ In mijn eerste prototypen kon je nog niet goed navigeren en had het een aantal b
 
 Marijn vond de muziek in het begin leuk maar niet voor de hele tijd. Ik heb een knop toegevoegd dat je het geluik aan en uit kan zetten.
 
+Wat ik de volgende keer beter kan doen tijdens het testen is een link sturen naar zijn email zodat hij sneler de link kan openen.  
+
+
 ## Prototypen 2
 Op basis van de feedback heb ik het gebruik van de website aangepast zodat Marijn de website beter kan gebruiken zoals pijtjes toetsen veranderen naar hjkl.
 
@@ -93,6 +96,9 @@ Ik kreeg feedback van marrijn dat ik geen if statement moest nesten maar dat ik 
 Wanneer je de website opniew gaat herladen blijft de current state niet op de zelften locatie. Ook wordt de informatie die je typt niet opgeslagen wanneer je de pagina herlaad. Ik kan met localstorage dit oplossen of een database toevoegen maar hier had ik niet genoeg tijd voor.
 
 Wanneer je een item heb geselecteerd kan je het naar links en rechts verplaatsen maar als je bij het einde bent loopt die niet terug naar de eerste column. Het was me nog niet gelukt om dit voor elkaar te krijgen.
+
+Wat ik goed had gedaan tijdens het testen is dat ik geen uitleg geeften over wat hij moest doen maar dat hij dit uit zich zelf moest oplossen.
+
 
 ## Prototypen 3
 Op basis van de feedback heb ik de styling aangepast en bugs opgelost in de code.
@@ -108,6 +114,8 @@ Wat Marijn graag zou willen doen was de helen column verplaatsen naar links of r
 Marijn vond dat de i knop voor intert moet zijn en dat ik de leter e zou kunnen gebruiken voor edit.
 
 Ook zag ik dat hij de lijsten wilden verplaatsen met de muis. Dit ga ik in het vervolg dan ook toevoegen.
+
+Wat ik goed heb gedaan is dat ik de feedback na het gesprek heb opgescheven en een plan had gemaakt hoe ik dit kon oplossen.
 
 ## Samenvating
 Ik heb goed gekeken naar de situatie van Marijn en er achter gekomen dat hij HJKL toetsen gebruikt om te navigeren door een website daarom heb ik dit toegevoegd in mijn prototypen. Marijn haat de tab toets en gebruikt deze niet hierbij komt ignore conventions goed van pas. Hij houd van muziek en daarom heb ik de website in het thema muziek gemaakt zodat zijn identiteit terug komt in de website. Als laatste heb ik nog wat nonsens toegevoegd zoals het spelen van muziek met de lijst en dat de piano automatich muziek kan spelen.
