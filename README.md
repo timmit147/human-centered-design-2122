@@ -111,8 +111,7 @@ Ook zag ik dat hij de lijsten wilden verplaatsen met de muis. Dit ga ik in het v
 Ik heb goed gekeken naar de situatie van Marijn en er achter gekomen dat hij HJKL toetsen gebruikt om te navigeren door een website daarom heb ik dit toegevoegd in mijn prototypen. Marijn haat de tab toets en gebruikt deze niet hierbij komt ignore conventions goed van pas. Hij houd van muziek en daarom heb ik de website in het thema muziek gemaakt zodat zijn identiteit terug komt in de website. Als laatste heb ik nog wat nonsens toegevoegd zoals het spelen van muziek met de lijst en dat de piano automatich muziek kan spelen.
 
 ## Conclusie
-Uit de feedback die ik heb gekregen heb ik begrepen dat hij het gebruik van de website handig vind en dit
-
+Uit de feedback die ik heb gekregen heb ik begrepen dat hij het gebruik van de website handig vind en fijner vind te gebruiken dan een lijst die niet exclusief is gemaakt is voor hem. Wat ik geleerd heb is dat het heel belangerijk is om goed na te denken voor wie je een product maakt en dat je niet altijd de standaard route moet volgen maar dat elke doelgroep andere eisen heeft.
 
 ## Bronnen
 https://www.quora.com/What-are-the-uses-of-sticky-keys
