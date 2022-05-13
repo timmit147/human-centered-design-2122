@@ -66,17 +66,10 @@ Ik heb 3 ontwerpen gemaakt om basis van Marijn zijn profiel.
 
 ![Web 1920 – 4](https://user-images.githubusercontent.com/29665951/167800891-04afce38-0bdc-4df0-8cb3-1062086b75ef.png)
 
-
 ## Prototypen
 In HTML, CSS en Javascript heb ik een protypen gemaakt.
 
-![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
-
-## Prototypen 2
-Ik heb de styling aangepast omdat het eerst alleen zwart wit was.
-
-![image](https://user-images.githubusercontent.com/29665951/168086634-52a952fc-f85f-440f-9e9d-d73d4ce3f6be.png)
-
+![Web 1920 – 5](https://user-images.githubusercontent.com/29665951/168252794-acfebe06-10a0-4015-82fa-e320793ad591.png)
 
 ## Welke aanpassingen heb ik gemaakt na test 1?
 Ik kreeg feedback dat Marijn geen tab gebruikt en heb deze uit de code gehaald om naar het volgende item te gaan.
@@ -87,6 +80,10 @@ In mijn eerste prototypen kon je nog niet goed navigeren en had het een aantal b
 
 Marijn vond de muziek in het begin leuk maar niet voor de hele tijd. Ik heb een knop toegevoegd dat je het geluik aan en uit kan zetten.
 
+## Prototypen 2
+Op basis van de feedback heb ik het gebruik van de website aangepast zodat Marijn de website beter kan gebruiken zoals pijtjes toetsen veranderen naar hjkl.
+
+![image](https://user-images.githubusercontent.com/29665951/167801166-482d8dfd-93dd-44b2-ab33-be56f1691fcf.png)
 
 ## Wat heb ik aangepast na test 2?
 Ik had in mijn eersten ontwerpen gekozen voor een witte achtergrond maar ik had gelezen dat hij dark mode fijner vind om te gebruiken en heb dit toegepast in het prototypen.
@@ -96,6 +93,11 @@ Ik kreeg feedback van marrijn dat ik geen if statement moest nesten maar dat ik 
 Wanneer je de website opniew gaat herladen blijft de current state niet op de zelften locatie. Ook wordt de informatie die je typt niet opgeslagen wanneer je de pagina herlaad. Ik kan met localstorage dit oplossen of een database toevoegen maar hier had ik niet genoeg tijd voor.
 
 Wanneer je een item heb geselecteerd kan je het naar links en rechts verplaatsen maar als je bij het einde bent loopt die niet terug naar de eerste column. Het was me nog niet gelukt om dit voor elkaar te krijgen.
+
+## Prototypen 3
+Op basis van de feedback heb ik de styling aangepast en bugs opgelost in de code.
+
+![image](https://user-images.githubusercontent.com/29665951/168086634-52a952fc-f85f-440f-9e9d-d73d4ce3f6be.png)
 
 
 ## Wat heb ik aangepast na test 3?
