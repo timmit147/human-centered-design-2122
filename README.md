@@ -7,7 +7,7 @@ Voor het vak Human Centered Design heb ik een drag en drop website gemaakt voor 
 Bij HCI staat de gebruiker centraal en ontwerp je voor de gebruiker. Je kijk naar de problemen van de gebruiker en wat de gebruiker wil. Bij dit vak is het nog extremer gemaakt dat je niet voor een bepaalden doelgroep iets maakt maar voor 1 individueel persoon. Ik heb dit vak geleerd hoe ik exclusief kan ontwerpen inplaats van inclusief voor iedereen. Voor dit vak mocht ik een website maken dat exclusief gemaakt is voor Marijn.
 
 ### Wie is Marijn Meijles?
-Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een briljante nerd. Hij doet al jaren met heel veel plezier mee aan deze opdracht. Marijn heeft een motorische stoornis. Hij gebruikt zijn computer dus anders dan wij. Hij heeft veel moeite met fijne motoriek. Hij gebruikt zijn toetsenbord om te navigeren, en in de Accessibility settings van zijn Mac heeft hij Sticky Keys aan staan.
+Marijn is iemand die een passie heeft voor muziek super goed is in programeren en altijd op zoek is naar bugs in code en er van houd om af en toe een biertje te drinken. Marijn heeft een motorische stoornis waardoor hij in een rolstoel zit,  dit weerhoud hem niet om ons feedback te geven over websites die wij hebben gemaakt. De eersten keer dat ik hem ontmoeten was het lastig om hem te verstaan en zag ik dat het gebruik van een computer lastiger gaat voor hem dan voor andere. Wanneer je marijn beter leerd kennen zie je dat hij veel plezier heeft in het helpen en af een toe een grap tussendoor te geven.
 
 ![image](https://user-images.githubusercontent.com/29665951/168051612-df9dfe80-5223-4c7a-844c-01b31fa0ea23.png)
 
@@ -15,8 +15,8 @@ Marijn is waarschijnlijk de beste developer die je ooit gaat ontmoeten. Een bril
 ### Wat is exclusief design
 Exclusief design is het ontwerpen voor een persoon enkele persoon en kijkt naar de doelen van een uniek persoon. Het tegenovergestelden van exclusief is inclusief  waarbij je juist probeerd zoveel mogelijk rekening te houden met alle mensen die het product gebruiken. Bij exclusief design is het testen met de persoon crusiaal zodat je feedback krijgt hoe je het ontwerp kan verbeteren. 
 
-## Welke opdracht heb ik gekozen?
-Ik heb gekozen om een drag en drop lijst te maken waarbij je items kan verplaatsen met het toetsenboard. Omdat Marijn een slechte motoriek heeft is het slepen van items lastig. Inplaats van slepen van items ga ik het makelijker maken om met de toetsenbord toetsen de items te verplaatsen.
+## Wat wil marijn bereiken?
+Ik heb gekozen om een drag en drop lijst te maken waarbij je items kan verplaatsen met het toetsenboard. Omdat Marijn een slechte motoriek heeft is het slepen van items lastig. Inplaats van slepen van items ga ik het makelijker maken om met de toetsen van zijn computer de items te kunnen verplaatsen.
 
 <details closed>
 <summary>Debriefing</summary>
