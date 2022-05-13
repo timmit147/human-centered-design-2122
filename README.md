@@ -127,3 +127,5 @@ Uit de feedback die ik heb gekregen heb ik begrepen dat hij het gebruik van de w
 https://www.quora.com/What-are-the-uses-of-sticky-keys
 https://vim.rtorr.com/
 https://web.tue.nl/cursor/html/cursor4119981999/cursor25/pag7a.htm
+https://www.youtube.com/watch?v=8V25yphVEIo
+https://nl.linkedin.com/in/marijnmeijles
